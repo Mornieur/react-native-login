@@ -21,9 +21,9 @@ Siga estas etapas para configurar e executar o projeto em seu ambiente local:
 
 1. Clone o repositório:
 
-   ```
-   git clone https://github.com/Mornieur/react-native-login.git
-   ```
+```
+git clone https://github.com/Mornieur/react-native-login.git
+```
 
 2. Navegue para o diretório do projeto:
 
